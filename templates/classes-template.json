@@ -1,0 +1,52 @@
+{
+    "": {
+        "name": "",
+        "img": "",
+        "quote": "",
+        "abilityModifiers": {
+            "strength": "",
+            "dexterity": "",
+            "constitution": "",
+            "intelligence": "",
+            "charisma": ""
+        },
+        "skills": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "spells": "",
+        "abilities":
+            [
+            {
+            "name": "",
+            "level": "",
+            "description": [
+                "",
+                "",
+                "",
+                ""
+            ]
+            },
+            {
+                "name": "",
+                "level": "",
+                "description": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+                }
+            ],
+        "description": [
+            "",
+            "",
+            ""
+        ]
+        }
+    }
