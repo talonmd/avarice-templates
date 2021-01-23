@@ -1,4 +1,4 @@
-# Avarice Game Repository
+# Avarice Data Repository
 
 **This repo is the single source of truth for all the data and information for Avarice**
 
