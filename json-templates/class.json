@@ -1,0 +1,22 @@
+{
+  "name": "Savage",
+  "id": 1,
+  "commonName": "Barbarian",
+  "imgurl": "",
+  "quote": "Rip and tear. Break bone, flesh, and spirit.",
+  "baseStats": [3, 0, 1, 0],
+  "abilityTreeID": 1,
+  "description": "Here is a description example, but I don't want to actually think of anything to write so I am just filling it with filler text and it is very fullfilling to me.",
+  "skills": {
+    "diplomacy": 0,
+    "disguise": 0,
+    "explosive": 0,
+    "handleAnimal": 0,
+    "medicine": 0,
+    "pilot": 0,
+    "repar": 0,
+    "technology": 0,
+    "sleightOfHand": 0,
+    "survival": 0
+  }
+}

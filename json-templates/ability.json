@@ -1,0 +1,8 @@
+{
+  "name": "ability name",
+  "associatedStat": "", // one of the stats unique IDS
+  "difficulty": 1, // rated 1 -15
+  "description": "description",
+  "augmentationTypes": ["type1", "type2", "type3", "type4"],
+  "activatedAugmentation": "type2" // one of the types from above
+}
