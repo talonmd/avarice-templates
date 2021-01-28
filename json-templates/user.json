@@ -1,11 +1,9 @@
 {
-    "firstName": "Talon",
-    "lastName": "Durrant",
-    "username": "talonmd",
-    "email": "talonmdurrant@gmail.com",
-    "hash": "",
-    "characterSheets": [
-        "144",
-        "443"
-    ]
+  "firstName": "Talon",
+  "lastName": "Durrant",
+  "username": "talonmd",
+  "email": "talonmdurrant@gmail.com",
+  "hash": "",
+  "characterSheets": ["144", "443"],
+  "campaignSheets": ["123", "124"]
 }
