@@ -1,0 +1,168 @@
+{
+  "campaignName": "To Infinity and Freon",
+  "background": "This is a campaign that you won't be able to survive, but you will have a blast doing it. I have a lot of evil plans that I will enact on you. Here is some more filler text.",
+  "creatorID": "1",
+  "players": ["1", "2"],
+  "characterSheets": ["1", "2", "3"],
+  "npcs": [
+    {
+      "name": "name",
+      "active": true,
+      "enemy": false,
+      "race": "race",
+      "raceID": "1",
+      "missionID": "1",
+      "level": 4,
+      "stats": {
+        "strength": 0,
+        "constitution": 0,
+        "reflex": 0,
+        "speed": 0,
+        "speech": 0,
+        "performance": 0,
+        "technical": 0,
+        "practical": 1,
+        "ranged": 0,
+        "melee": 0
+      },
+      "hp": 100,
+      "armourValue": 8,
+      "dodgeValue": 8,
+      "lifeCredits": 100,
+      "weapons": ["1", "2"],
+      "wearables": ["1", "2"],
+      "items": ["1", "2"]
+    }
+  ],
+  "inventoryItems": {
+    "weapons": [
+      {
+        "name": "Assassin's Wrist Mounted Gun",
+        "damage": "D6",
+        "active": true,
+        "missionID": "1",
+        "proficiency": "constitution",
+        "rangedMelee": "Ranged",
+        "critical": "17-20",
+        "range": "3-10",
+        "size": "small",
+        "equipped": false,
+        "description": "A concealed gun favored by assassins. The gun springs open and can fire up to 5 silenced shots. Illegal in most cities and will raise eyebrows in others.",
+        "abilities": [
+          {
+            "name": "Hidden Weapon",
+            "associatedStat": "n/a",
+            "effects": {},
+            "difficulty": 1,
+            "description": "If someone is searching for weapons on your body, they need to pass a DC 20 investigation check to find this weapon."
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "name": "All or Nothing Coin",
+        "equipped": false,
+        "active": true,
+        "missionID": "1",
+        "uses": 1,
+        "effects": {},
+        "description": "Once per day, instead of rolling a d20, you can flip a coin. Heads = critical hit; Tails = critical fail."
+      }
+    ],
+    "wearables": [
+      {
+        "name": "A Bucket of Disguise",
+        "equipped": false,
+        "active": true,
+        "missionID": "1",
+        "bodyArea": "Head",
+        "description": "The wearer of the bucket truly believes that they are invisible. It is highly sought after, but there is an interesting quality that only someone who wears it discovers. The wearer begins to hear thoughts that are not their own.",
+        "statModifiers": {
+          "strength": 0,
+          "constitution": 0,
+          "reflex": 0,
+          "speed": 0,
+          "speech": 0,
+          "performance": 0,
+          "technical": 0,
+          "practical": 1,
+          "ranged": 0,
+          "melee": -1
+        },
+        "abilities": [
+          {
+            "name": "Walaloo",
+            "associatedStat": "n/a",
+            "effects": {},
+            "difficulty": 1,
+            "description": "You will probably run into things."
+          }
+        ]
+      }
+    ]
+  },
+  "environment": [
+    {
+      "name": "name",
+      "active": true,
+      "missionID": "1",
+      "description": "",
+      "hp": "",
+      "effects": ""
+    }
+  ],
+  "missions": [
+    {
+      "name": "name",
+      "id": "1",
+      "date": "March 1, 2021",
+      "current": false,
+      "complete": false,
+      "planned": true,
+      "notes": "Bacon ipsum dolor amet landjaeger turducken pancetta short ribs ham, ham hock porchetta bresaola chislic chicken alcatra. Meatball tri-tip strip steak biltong shankle. Rump swine meatball tongue jowl. Tail picanha salami, porchetta ground round chicken chuck boudin. Chicken biltong ground round cow shoulder pancetta prosciutto pork belly salami. Ball tip corned beef tenderloin shank.\nBeef ribs burgdoggen alcatra turducken bacon short ribs ham prosciutto, shank frankfurter shankle cow meatloaf porchetta. Leberkas tenderloin ham hock pork belly flank. Shankle ham doner pig,"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "content": "This is my plan. Read along carefully so that you completley understand. Did you understand?"
+    },
+    {
+      "id": 2,
+      "content": "I need to remember to sell my bow next time we make it to a town! Steal the eye from Ben sometime so I can use it for a prank."
+    },
+    {
+      "id": 3,
+      "content": "I want to get a cyberkinetic arm that can shoot lazers shaped like sharks.\nIs that a thing? Steal the eye from Ben's chest and put it in Zack's pack without either of them noticing."
+    }
+  ],
+  "captainsLog": [
+    {
+      "id": 1,
+      "missionID": "1",
+      "title": "March 20, 2021: Mission Name",
+      "details": "I was walking down the street when out of the corner of my eye I saw a pretty little girl looking at me. Then I woke up and remember no girls will ever love me. It was a very sad mission."
+    },
+    {
+      "id": 2,
+      "missionID": "2",
+      "title": "March 28, 2021: Mission Name",
+      "details": "I died."
+    }
+  ],
+  "personalLog": [
+    {
+      "id": 1,
+      "missionID": "1",
+      "title": "March 20, 2021: Mission Name",
+      "details": "I was walking down the street when out of the corner of my eye I saw a pretty little girl looking at me. Then I woke up and remember no girls will ever love me. It was a very sad mission."
+    },
+    {
+      "id": 2,
+      "missionID": "1",
+      "title": "March 28, 2021: Mission Name",
+      "details": "I died."
+    }
+  ]
+}
