@@ -5,6 +5,7 @@
   "startingAbility": {
     "name": "ability name",
     "associatedStat": "",
+    "effects": {},
     "difficulty": 1,
     "description": "description"
   },
