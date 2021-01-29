@@ -194,6 +194,7 @@
       "name": "A Bucket of Disguise",
       "equipped": false,
       "bodyArea": "Head",
+      "armourValue": 3,
       "description": "The wearer of the bucket truly believes that they are invisible. It is highly sought after, but there is an interesting quality that only someone who wears it discovers. The wearer begins to hear thoughts that are not their own.",
       "statModifiers": {
         "strength": 0,
