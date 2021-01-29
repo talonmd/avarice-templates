@@ -4,6 +4,7 @@
   "augmentationTypes": ["standard", "base", "earth", "nature"],
   "startingAbility": {
     "name": "Feral",
+    "type": "Base Class Ability",
     "associatedStat": "constitution",
     "difficulty": 1,
     "description": "When below half health, your attacks deal double damage."
