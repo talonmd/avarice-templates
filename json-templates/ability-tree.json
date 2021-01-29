@@ -11,70 +11,72 @@
   "abilities": [
     {
       "name": "ability name",
-      "standard": {
-        "type": "standard",
-        "associatedStat": "",
-        "effects": {
-          "roll": {
-            "die": 20
+      "types": [
+        {
+          "type": "standard",
+          "associatedStat": "",
+          "effects": {
+            "roll": {
+              "die": 20
+            },
+            "heal": {
+              "amount": 30
+            }
           },
-          "heal": {
-            "amount": 30
-          }
+          "difficulty": 1,
+          "description": "description",
+          "equipped": false,
+          "unlocked": false
         },
-        "difficulty": 1,
-        "description": "description",
-        "equipped": false,
-        "unlocked": false
-      },
-      "base": {
-        "type": "base",
-        "associatedStat": "",
-        "effects": {
-          "roll": {
-            "die": 20
+        {
+          "type": "base",
+          "associatedStat": "",
+          "effects": {
+            "roll": {
+              "die": 20
+            },
+            "heal": {
+              "amount": 30
+            }
           },
-          "heal": {
-            "amount": 30
-          }
+          "difficulty": 1,
+          "description": "description",
+          "equipped": false,
+          "unlocked": false
         },
-        "difficulty": 1,
-        "description": "description",
-        "equipped": false,
-        "unlocked": false
-      },
-      "thermal": {
-        "type": "thermal",
-        "associatedStat": "",
-        "effects": {
-          "roll": {
-            "die": 20
+        {
+          "type": "thermal",
+          "associatedStat": "",
+          "effects": {
+            "roll": {
+              "die": 20
+            },
+            "heal": {
+              "amount": 30
+            }
           },
-          "heal": {
-            "amount": 30
-          }
+          "difficulty": 1,
+          "description": "description",
+          "equipped": false,
+          "unlocked": false
         },
-        "difficulty": 1,
-        "description": "description",
-        "equipped": false,
-        "unlocked": false
-      },
-      "electricity": {
-        "type": "electricity",
-        "associatedStat": "",
-        "effects": {
-          "roll": {
-            "die": 20
+        {
+          "type": "electricity",
+          "associatedStat": "",
+          "effects": {
+            "roll": {
+              "die": 20
+            },
+            "heal": {
+              "amount": 30
+            }
           },
-          "heal": {
-            "amount": 30
-          }
-        },
-        "difficulty": 1,
-        "description": "description",
-        "equipped": false,
-        "unlocked": false
-      }
+          "difficulty": 1,
+          "description": "description",
+          "equipped": false,
+          "unlocked": false
+        }
+      ]
     }
   ]
 }
