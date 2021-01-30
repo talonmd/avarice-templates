@@ -185,6 +185,7 @@
       "name": "Assassin's Wrist Mounted Gun",
       "damage": "D6",
       "proficiency": "constitution",
+      "proficiencyCode": "CON",
       "rangedMelee": "Ranged",
       "critical": "17-20",
       "range": "3-10",
