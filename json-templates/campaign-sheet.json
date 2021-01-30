@@ -2,6 +2,7 @@
   "campaignName": "To Infinity and Freon",
   "background": "This is a campaign that you won't be able to survive, but you will have a blast doing it. I have a lot of evil plans that I will enact on you. Here is some more filler text.",
   "creatorID": "1",
+  "creatorName": "Petri Dish",
   "players": ["Peter", "Gary", "Bill"],
   "characters": ["Dovid", "Gary", "Will"],
   "playersIDS": ["1", "2", "3"],
