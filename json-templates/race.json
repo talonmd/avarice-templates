@@ -3,7 +3,6 @@
   "imageUrl": "",
   "quote": "Here goes the quote.",
   "size": "size", // tiny, small, medium, large, huge
-  "sizeValueMod": 1,
   "basicInfo": [
     {
       "descriptor": "Location",
