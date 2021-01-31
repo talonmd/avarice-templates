@@ -17,5 +17,47 @@
       "description": ""
     }
   ],
+  "stats": [
+    {
+      "modifier": "strength",
+      "value": 0
+    },
+    {
+      "modifier": "constitution",
+      "value": 0
+    },
+    {
+      "modifier": "reflex",
+      "value": 0
+    },
+    {
+      "modifier": "speed",
+      "value": 0
+    },
+    {
+      "modifier": "speech",
+      "value": 0
+    },
+    {
+      "modifier": "perform",
+      "value": 0
+    },
+    {
+      "modifier": "technical",
+      "value": 0
+    },
+    {
+      "modifier": "practical",
+      "value": 1
+    },
+    {
+      "modifier": "ranged",
+      "value": 0
+    },
+    {
+      "modifier": "melee",
+      "value": -1
+    }
+  ],
   "description": "The city of Cithde is a rough place to be. If a random degenerates doesn't shank you in an alley, any one of the many gangs could give you a fair amount of trouble. Notoriously cutthroat and brutal to those that oppose them, all of the gangs employ a generous amount of muscle to enforce their territory and their rules. Thankfully, the Bruttu are the perfect race for the job. Bruttu have never had it easy and it's mostly their fault."
 }
