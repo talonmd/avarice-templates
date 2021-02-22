@@ -28,7 +28,7 @@ There are specific scenarios that will give a character advantage in combat. Adv
 -	Heavy Fog: -1 Advantage if there is a heavy fog (or similar situation)
 -	Multitasking: -1 Advantage if a character is using 1 AP to perform 2 actions. (REFERENCE)
 -	Cover:  -2 advantage if target is behind full cover (more than 3/4 covered).-1 advantage if target is behind half cover (more than 1/2 but less than 3/4 covered)
--	
+
 ## NON-COMBAT ADVANTAGE:  
 
 Following is a list on non-combat related ways to gain advantage. You may also gain these advantages while in combat, but they cannot affect accuracy rolls.
